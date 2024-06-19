@@ -1,0 +1,271 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\AltiumDB\RZ_DB.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel 2007
+LibraryDatabasePath=D:\AltiumDB\RZ_DB.xlsx
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Res SMD$
+[Table1]
+SchemaName=
+TableName=Cap Al$
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=Cap Ceramic$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Manufacturer0=93|Alternative0=78|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Package0=65|Value0=52|Tolerance0=73|Dielectric0=70|Voltage0=63|ESR0=42|Tmin0=48|Tmax0=49|Description0=82|ComponentLink1Description0=170|ComponentLink1URL0=131|Component Note0=112|Note0=48|Lcsc0=43|ChipDip0=65
+[Table3]
+SchemaName=
+TableName=Cap Poly$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Manufacturer0=93|Alternative0=78|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Package0=65|Value0=52|Tolerance0=73|Dielectric0=70|Voltage0=63|ESR0=42|Tmin0=48|Tmax0=49|Work0=51|Description0=82|ComponentLink1Description0=170|ComponentLink1URL0=131|Component Note0=112|Note0=48|Lcsc0=43|ChipDip0=65
+[Table4]
+SchemaName=
+TableName=Cap Tantal$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Manufacturer0=93|Alternative0=78|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Package0=65|Value0=52|Tolerance0=73|Dielectric0=70|Voltage0=63|ESR0=42|Tmin0=48|Tmax0=49|Work0=51|Description0=82|ComponentLink1Description0=170|ComponentLink1URL0=131|Component Note0=112|Note0=48|Lcsc0=43|ChipDip0=65
+[Table5]
+SchemaName=
+TableName=Crystals$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Manufacturer0=93|Alternative0=78|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Package0=65|Value0=52|Vmin0=49|Vmax0=50|PPM0=45|Capacitance0=85|Tmin0=48|Tmax0=49|Description0=82|ComponentLink1Description0=170|ComponentLink1URL0=131|Component Note0=112|Note0=48|Lcsc0=43|ChipDip0=65
+[Table6]
+SchemaName=
+TableName=FPGA$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Manufacturer0=93|Alternative0=78|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Package0=65|Lab0=41|Alm0=42|Freq0=46|IO0=35|ROM0=49|FLASH0=55|Tmin0=48|Tmax0=49|Description0=82|ComponentLink1Description0=170|ComponentLink1URL0=131|Component Note0=112|Note0=48|Lcsc0=43|ChipDip0=65
+[Table7]
+SchemaName=
+TableName=IC Interface$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Manufacturer0=93|Alternative0=78|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Package0=65|Type0=47|Speed0=55|Channels0=71|Tmin0=48|Tmax0=49|Description0=82|ComponentLink1Description0=170|ComponentLink1URL0=131|Component Note0=112|Note0=48|Lcsc0=43|ChipDip0=65
+[Table8]
+SchemaName=
+TableName=IC OpAmp$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Manufacturer0=93|Alternative0=78|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Package0=65|Type0=47|Freq0=46|Noise0=52|Channels0=71|VinMin0=60|VinMax0=61|Tech0=47|Tmin0=48|Tmax0=49|Description0=82|ComponentLink1Description0=170|ComponentLink1URL0=131|Component Note0=112|Note0=48|Lcsc0=43|ChipDip0=65
+[Table9]
+SchemaName=
+TableName=IC Power$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Manufacturer0=93|Alternative0=78|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Package0=65|Type convert0=88|VinMin0=60|VinMax0=61|VoutMin0=68|VoutMax0=69|Iout0=44|Freq0=46|Efficiency0=71|Tmin0=48|Tmax0=49|Description0=82|ComponentLink1Description0=170|ComponentLink1URL0=131|Component Note0=112|Note0=48|Lcsc0=43|ChipDip0=65
+[Table10]
+SchemaName=
+TableName=MCU$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Manufacturer0=93|Alternative0=78|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Package0=65|Core0=47|Freq0=46|FLASH0=55|RAM0=47|EEPROM0=67|USART0=57|I2C0=39|SPI0=38|CAN0=45|ETH0=43|Tmin0=48|Tmax0=49|Description0=82|ComponentLink1Description0=170|ComponentLink1URL0=131|Component Note0=112|Note0=48|Lcsc0=43|ChipDip0=65
+[Table11]
+SchemaName=
+TableName=Res Output$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Manufacturer0=93|Alternative0=78|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Package0=65|Value0=52|Tolerance0=73|PPM0=45|Power0=55|Voltage0=63|Tmin0=48|Tmax0=49|Description0=82|ComponentLink1Description0=170|ComponentLink1URL0=131|Component Note0=112|Note0=48|Lcsc0=43|ChipDip0=65
+[Table12]
+SchemaName=
+TableName=Res SMD$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Manufacturer0=93|Alternative0=78|Library Path0=83|Library Ref0=77|Footprint Path0=98|Footprint Ref0=92|Package0=65|Value0=52|Tolerance0=73|PPM0=45|Power0=55|Voltage0=63|Tmin0=48|Tmax0=49|Description0=82|ComponentLink1Description0=170|ComponentLink1URL0=131|Component Note0=112|Note0=48|Lcsc0=43|ChipDip0=65
+[FieldMap1]
+Options=FieldName=Cap Al$.Part Number|TableNameOnly=Cap Al$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Cap Al$.Library Path|TableNameOnly=Cap Al$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Cap Al$.Library Ref|TableNameOnly=Cap Al$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Cap Al$.Footprint Path|TableNameOnly=Cap Al$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Cap Al$.Footprint Ref|TableNameOnly=Cap Al$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Cap Al$.Description|TableNameOnly=Cap Al$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Cap Ceramic$.Part Number|TableNameOnly=Cap Ceramic$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Cap Ceramic$.Library Path|TableNameOnly=Cap Ceramic$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Cap Ceramic$.Library Ref|TableNameOnly=Cap Ceramic$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Cap Ceramic$.Footprint Path|TableNameOnly=Cap Ceramic$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=Cap Ceramic$.Footprint Ref|TableNameOnly=Cap Ceramic$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=Cap Ceramic$.Description|TableNameOnly=Cap Ceramic$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=Cap Poly$.Part Number|TableNameOnly=Cap Poly$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=Cap Poly$.Library Path|TableNameOnly=Cap Poly$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=Cap Poly$.Library Ref|TableNameOnly=Cap Poly$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=Cap Poly$.Footprint Path|TableNameOnly=Cap Poly$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=Cap Poly$.Footprint Ref|TableNameOnly=Cap Poly$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=Cap Poly$.Description|TableNameOnly=Cap Poly$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=Cap Tantal$.Part Number|TableNameOnly=Cap Tantal$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=Cap Tantal$.Library Path|TableNameOnly=Cap Tantal$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=Cap Tantal$.Library Ref|TableNameOnly=Cap Tantal$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=Cap Tantal$.Footprint Path|TableNameOnly=Cap Tantal$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=Cap Tantal$.Footprint Ref|TableNameOnly=Cap Tantal$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=Cap Tantal$.Description|TableNameOnly=Cap Tantal$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=Crystals$.Part Number|TableNameOnly=Crystals$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=Crystals$.Library Path|TableNameOnly=Crystals$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=Crystals$.Library Ref|TableNameOnly=Crystals$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=Crystals$.Footprint Path|TableNameOnly=Crystals$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=Crystals$.Footprint Ref|TableNameOnly=Crystals$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=Crystals$.Description|TableNameOnly=Crystals$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=FPGA$.Part Number|TableNameOnly=FPGA$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=FPGA$.Library Path|TableNameOnly=FPGA$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=FPGA$.Library Ref|TableNameOnly=FPGA$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=FPGA$.Footprint Path|TableNameOnly=FPGA$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=FPGA$.Footprint Ref|TableNameOnly=FPGA$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=FPGA$.Description|TableNameOnly=FPGA$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=IC Interface$.Part Number|TableNameOnly=IC Interface$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=IC Interface$.Library Path|TableNameOnly=IC Interface$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=IC Interface$.Library Ref|TableNameOnly=IC Interface$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=IC Interface$.Footprint Path|TableNameOnly=IC Interface$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=IC Interface$.Footprint Ref|TableNameOnly=IC Interface$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=IC Interface$.Description|TableNameOnly=IC Interface$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=IC OpAmp$.Part Number|TableNameOnly=IC OpAmp$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=IC OpAmp$.Library Path|TableNameOnly=IC OpAmp$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=IC OpAmp$.Library Ref|TableNameOnly=IC OpAmp$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=IC OpAmp$.Footprint Path|TableNameOnly=IC OpAmp$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=IC OpAmp$.Footprint Ref|TableNameOnly=IC OpAmp$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=IC OpAmp$.Description|TableNameOnly=IC OpAmp$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=IC Power$.Part Number|TableNameOnly=IC Power$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=IC Power$.Library Path|TableNameOnly=IC Power$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=IC Power$.Library Ref|TableNameOnly=IC Power$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=IC Power$.Footprint Path|TableNameOnly=IC Power$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=IC Power$.Footprint Ref|TableNameOnly=IC Power$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=IC Power$.Description|TableNameOnly=IC Power$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=MCU$.Part Number|TableNameOnly=MCU$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=MCU$.Library Path|TableNameOnly=MCU$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=MCU$.Library Ref|TableNameOnly=MCU$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=MCU$.Footprint Path|TableNameOnly=MCU$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=MCU$.Footprint Ref|TableNameOnly=MCU$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=MCU$.Description|TableNameOnly=MCU$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=Res Output$.Part Number|TableNameOnly=Res Output$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=Res Output$.Library Path|TableNameOnly=Res Output$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=Res Output$.Library Ref|TableNameOnly=Res Output$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=Res Output$.Footprint Path|TableNameOnly=Res Output$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=Res Output$.Footprint Ref|TableNameOnly=Res Output$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=Res Output$.Description|TableNameOnly=Res Output$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=Res SMD$.Part Number|TableNameOnly=Res SMD$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap68]
+Options=FieldName=Res SMD$.Library Path|TableNameOnly=Res SMD$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap69]
+Options=FieldName=Res SMD$.Library Ref|TableNameOnly=Res SMD$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap70]
+Options=FieldName=Res SMD$.Footprint Path|TableNameOnly=Res SMD$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap71]
+Options=FieldName=Res SMD$.Footprint Ref|TableNameOnly=Res SMD$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap72]
+Options=FieldName=Res SMD$.Description|TableNameOnly=Res SMD$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
